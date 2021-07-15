@@ -1,2 +1,8 @@
 # DRC_Whitepaper
-DRC WHITEPAER KOR / ENG
+
+VERSION 1.2 
+
+DRC FOUNDATION
+
+
+
